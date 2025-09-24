@@ -2,6 +2,8 @@
 
 AI Mail Analyst automates daily delivery of the latest AI news, predictions, and expert tips to your email. It sources, structures, and formats information in HTML for seamless reading, empowering users with concise, relevant insights.
 
+![AI-Mail-Analyst](sample.png)
+
 ## Features
 - Scheduled daily AI news and trends
 - Short- and long-term predictions
